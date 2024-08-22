@@ -6,7 +6,7 @@
 2,?,audi,gas,std,dos,sedán,fwd,delantero,99.80,177.30,66.30,53.10,2507,ohc,cinco,136,mpfi,3.19,3.40,8.50,110,5500,19,25,15250
 1,158,audi,gas,std,cuatro,sedán,fwd,delantero,105.80,192.70,71.40,55.70,2844,ohc,cinco,136,mpfi,3.19,3.40,8.50,110,5500,19,25,17710
 1,?,audi,gas,std,cuatro,wagon,fwd,delantero,105.80,192.70,71.40,55.70,2954,ohc,cinco,136,mpfi,3.19,3.40,8.50,110,5500,19,25,18920
-1,158,audi,gas,turbo,cuatro,sedán,TURBO,delantero,105.80,192.70,71.40,55.90,3086,ohc,cinco,131,mpfi,3.13,3.40,8.30,140,5500,17,20,23875
+1,158,audi,gas,turbo,cuatro,sedán,TURBO,4WD,delantero,105.80,192.70,71.40,55.90,3086,ohc,cinco,131,mpfi,3.13,3.40,8.30,140,5500,17,20,23875
 0,?,audi,gas,turbo,dos,hatchback,4wd,delantero,99.50,178.20,67.90,52.00,3053,ohc,cinco,131,mpfi,3.13,3.40,7.00,160,5500,16,22,?
 2,192,bmw,gas,std,dos,sedán,rwd,delantero,101.20,176.80,64.80,54.30,2395,ohc,cuatro,108,mpfi,3.50,2.80,8.80,101,5800,23,29,16430
 0,192,bmw,gas,std,cuatro,sedán,rwd,delantero,101.20,176.80,64.80,54.30,2395,ohc,cuatro,108,mpfi,3.50,2.80,8.80,101,5800,23,29,16925
